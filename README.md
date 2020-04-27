@@ -1,7 +1,7 @@
-# zawakun.github.io
+# kaiportfolio
 
 このサイトは私のポートフォリオサイトです。
-このサイトは、https://zawakun.github.io/jp/index.html
+このサイトは、https://kaizawa1122.github.io/kaiportfolio/jp/index.html
 
 自己紹介、Twiter、Facebook 等 SNS に関してもまとめております。
 取材を受けたところに関してもまとめております。
