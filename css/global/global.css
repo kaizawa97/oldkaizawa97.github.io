@@ -6801,10 +6801,10 @@
     padding-top: 4.6875rem;
     padding-bottom: 4.6875rem;
   }
-  .g-padding-y-80--sm {
+  /* .g-padding-y-80--sm {
     padding-top: 5rem;
     padding-bottom: 5rem;
-  }
+  } */
   .g-padding-y-85--sm {
     padding-top: 5.3125rem;
     padding-bottom: 5.3125rem;
@@ -6838,7 +6838,7 @@
     padding-bottom: 7.5rem;
   }
   .g-padding-y-125--sm {
-    padding-top: 7.8125rem;
+    /* padding-top: 7.8125rem; */
     padding-bottom: 7.8125rem;
   }
   .g-padding-y-130--sm {
@@ -7317,7 +7317,7 @@
 }
 
 .g-bg-color--body {
-  background-color: #fff !important;
+  background-color: #f7fff7 !important;
 }
 
 .g-bg-color--dark {
@@ -7333,7 +7333,7 @@
 }
 
 .g-bg-color--white {
-  background-color: #fff !important;
+  background-color: #f7fff7 !important;
 }
 
 .g-bg-color--text {
