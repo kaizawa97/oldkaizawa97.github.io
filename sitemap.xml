@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+<url>
+  <loc>https://kaizawa1122.github.io/kaiportfolio/jp/</loc>
+  <priority>1.0</priority>
+  <lastmod>2020-10-24T22:09:57+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kaizawa1122.github.io/kaiportfolio/jp/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-10-24T22:09:57+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kaizawa1122.github.io/kaiportfolio/jp/Blog/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-10-24T22:09:57+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kaizawa1122.github.io/kaiportfolio/jp/Archive/index.html</loc>
+  <priority>0.8</priority>
+  <lastmod>2020-10-24T22:09:57+09:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://kaizawa1122.github.io/kaiportfolio/jp/about/index.html</loc>
+  <priority>0.7</priority>
+  <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
